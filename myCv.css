@@ -1,0 +1,46 @@
+.content {
+    margin: 2% 5% 2% 5%;
+    text-align: center;
+}
+
+.myPhoto {
+    height: 20%;
+    width: 20%;
+}
+
+h1  {
+    color: #4682B4;
+}
+
+h2 {
+    color: #4682B4;
+}
+
+p {
+    font-size: 20px;
+}
+
+hr {
+    background-color: #4682B4;
+    height: 3px;
+}
+
+table {
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+.meInfo {
+    font-style: italic;
+}
+
+.jsCode {
+    margin-left: 40% ;
+    text-align: left;
+}
+
+.contacts {
+    width: 25px;
+    height: 25px;
+}
